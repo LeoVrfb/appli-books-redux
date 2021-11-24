@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appli-books-redux/static/css/main.29305709.chunk.css",
+    "main.js": "/appli-books-redux/static/js/main.473c3435.chunk.js",
+    "main.js.map": "/appli-books-redux/static/js/main.473c3435.chunk.js.map",
+    "runtime-main.js": "/appli-books-redux/static/js/runtime-main.6e002f10.js",
+    "runtime-main.js.map": "/appli-books-redux/static/js/runtime-main.6e002f10.js.map",
+    "static/css/2.9f0b74ee.chunk.css": "/appli-books-redux/static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.027864e8.chunk.js": "/appli-books-redux/static/js/2.027864e8.chunk.js",
+    "static/js/2.027864e8.chunk.js.map": "/appli-books-redux/static/js/2.027864e8.chunk.js.map",
+    "index.html": "/appli-books-redux/index.html",
+    "static/css/2.9f0b74ee.chunk.css.map": "/appli-books-redux/static/css/2.9f0b74ee.chunk.css.map",
+    "static/css/main.29305709.chunk.css.map": "/appli-books-redux/static/css/main.29305709.chunk.css.map",
+    "static/js/2.027864e8.chunk.js.LICENSE.txt": "/appli-books-redux/static/js/2.027864e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e002f10.js",
+    "static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.027864e8.chunk.js",
+    "static/css/main.29305709.chunk.css",
+    "static/js/main.473c3435.chunk.js"
+  ]
+}
